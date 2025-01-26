@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bemiyya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS, I haven't started JavaScript yet, but I will moving forward...
-- 💞️ I’m looking to collaborate on building small projects that require little coding as I am very new to it.
-- 📫 How to reach me: bemiyya@gmail.com
+- 👋 Hi, I’m Jakhongir
+- 👀 I’m interested in Software development
+- 🌱 I’m currently doing my degree in Computer Science at Brooklyn College
+- 💞️ I’m looking to collaborate on building projects
+- 📫 How to reach me: jakhongir.mirzo2@gmail.com
 
 <!---
 bemiyya/bemiyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
