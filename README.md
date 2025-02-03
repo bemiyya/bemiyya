@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently doing my degree in Computer Science at Brooklyn College
 - 💞️ I’m looking to collaborate on building projects
-- 📫 How to reach me: jakhongir.mirzo2@gmail.com
+- 📫 How to reach me: bemiyya@gmail.com
 
 <!---
 bemiyya/bemiyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
